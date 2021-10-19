@@ -18,7 +18,7 @@ class Project extends Component {
             <div className="card animated fadeInLeft">
                 <div className="card-body">
 
-                    <h3 className="card-title">Projects' Info</h3>
+                    <h3 className="card-title">Project's Info</h3>
                     <hr />
                 </div>
                 <form onSubmit={this.continue}>
